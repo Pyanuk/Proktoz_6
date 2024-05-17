@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Calen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{126EFBC7-687D-48A6-A538-629656F30B22}|Calen\\Calen.csproj|C:\\Users\\User\\source\\repos\\Calen\\calen\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126EFBC7-687D-48A6-A538-629656F30B22}|Calen\\Calen.csproj|solutionrelative:calen\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126EFBC7-687D-48A6-A538-629656F30B22}|Calen\\Calen.csproj|C:\\Users\\User\\source\\repos\\Calen\\calen\\sohrnpagexaml.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{126EFBC7-687D-48A6-A538-629656F30B22}|Calen\\Calen.csproj|solutionrelative:calen\\sohrnpagexaml.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126EFBC7-687D-48A6-A538-629656F30B22}|Calen\\Calen.csproj|C:\\Users\\User\\source\\repos\\Calen\\calen\\datacalendarviv.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{126EFBC7-687D-48A6-A538-629656F30B22}|Calen\\Calen.csproj|solutionrelative:calen\\datacalendarviv.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126EFBC7-687D-48A6-A538-629656F30B22}|Calen\\Calen.csproj|c:\\users\\user\\source\\repos\\calen\\calen\\datacalendarviv.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126EFBC7-687D-48A6-A538-629656F30B22}|Calen\\Calen.csproj|solutionrelative:calen\\datacalendarviv.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126EFBC7-687D-48A6-A538-629656F30B22}|Calen\\Calen.csproj|C:\\Users\\User\\source\\repos\\Calen\\calen\\kartsiks.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126EFBC7-687D-48A6-A538-629656F30B22}|Calen\\Calen.csproj|solutionrelative:calen\\kartsiks.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126EFBC7-687D-48A6-A538-629656F30B22}|Calen\\Calen.csproj|C:\\Users\\User\\source\\repos\\Calen\\calen\\selectpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126EFBC7-687D-48A6-A538-629656F30B22}|Calen\\Calen.csproj|solutionrelative:calen\\selectpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126EFBC7-687D-48A6-A538-629656F30B22}|Calen\\Calen.csproj|C:\\Users\\User\\source\\repos\\Calen\\calen\\kartsiks.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{126EFBC7-687D-48A6-A538-629656F30B22}|Calen\\Calen.csproj|solutionrelative:calen\\kartsiks.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126EFBC7-687D-48A6-A538-629656F30B22}|Calen\\Calen.csproj|C:\\Users\\User\\source\\repos\\Calen\\calen\\sohrnpagexaml.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126EFBC7-687D-48A6-A538-629656F30B22}|Calen\\Calen.csproj|solutionrelative:calen\\sohrnpagexaml.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126EFBC7-687D-48A6-A538-629656F30B22}|Calen\\Calen.csproj|C:\\Users\\User\\source\\repos\\Calen\\calen\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{126EFBC7-687D-48A6-A538-629656F30B22}|Calen\\Calen.csproj|solutionrelative:calen\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126EFBC7-687D-48A6-A538-629656F30B22}|Calen\\Calen.csproj|C:\\Users\\User\\source\\repos\\Calen\\calen\\filecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126EFBC7-687D-48A6-A538-629656F30B22}|Calen\\Calen.csproj|solutionrelative:calen\\filecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126EFBC7-687D-48A6-A538-629656F30B22}|Calen\\Calen.csproj|C:\\Users\\User\\source\\repos\\Calen\\calen\\resource1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126EFBC7-687D-48A6-A538-629656F30B22}|Calen\\Calen.csproj|solutionrelative:calen\\resource1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126EFBC7-687D-48A6-A538-629656F30B22}|Calen\\Calen.csproj|C:\\Users\\User\\source\\repos\\Calen\\calen\\resource1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{126EFBC7-687D-48A6-A538-629656F30B22}|Calen\\Calen.csproj|solutionrelative:calen\\resource1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Calen\\Calen\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Calen\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Calen\\Calen\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Calen\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T19:53:42.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "datacalendarviv.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Calen\\Calen\\datacalendarviv.xaml.cs",
+              "RelativeDocumentMoniker": "Calen\\datacalendarviv.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Calen\\Calen\\datacalendarviv.xaml.cs",
+              "RelativeToolTip": "Calen\\datacalendarviv.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAMwE0AAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T06:13:16.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "sohrnpagexaml.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Calen\\Calen\\sohrnpagexaml.xaml.cs",
+              "RelativeDocumentMoniker": "Calen\\sohrnpagexaml.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Calen\\Calen\\sohrnpagexaml.xaml.cs",
+              "RelativeToolTip": "Calen\\sohrnpagexaml.xaml.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAawE4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T12:58:13.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "datacalendarviv.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Calen\\Calen\\datacalendarviv.xaml",
+              "RelativeDocumentMoniker": "Calen\\datacalendarviv.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Calen\\Calen\\datacalendarviv.xaml",
+              "RelativeToolTip": "Calen\\datacalendarviv.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-26T20:20:37.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Calen\\Calen\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Calen\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Calen\\Calen\\MainWindow.xaml",
+              "RelativeToolTip": "Calen\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-26T19:53:44.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SelectPage.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Calen\\Calen\\SelectPage.cs",
+              "RelativeDocumentMoniker": "Calen\\SelectPage.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Calen\\Calen\\SelectPage.cs",
+              "RelativeToolTip": "Calen\\SelectPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T20:11:41.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sohrnpagexaml.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Calen\\Calen\\sohrnpagexaml.xaml",
+              "RelativeDocumentMoniker": "Calen\\sohrnpagexaml.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Calen\\Calen\\sohrnpagexaml.xaml",
+              "RelativeToolTip": "Calen\\sohrnpagexaml.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-26T20:22:52.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Kartsiks.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Calen\\Calen\\Kartsiks.xaml",
+              "RelativeDocumentMoniker": "Calen\\Kartsiks.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Calen\\Calen\\Kartsiks.xaml",
+              "RelativeToolTip": "Calen\\Kartsiks.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-26T20:06:34.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Filecs.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Calen\\Calen\\Filecs.cs",
+              "RelativeDocumentMoniker": "Calen\\Filecs.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Calen\\Calen\\Filecs.cs",
+              "RelativeToolTip": "Calen\\Filecs.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T20:27:11.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Kartsiks.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Calen\\Calen\\Kartsiks.xaml.cs",
+              "RelativeDocumentMoniker": "Calen\\Kartsiks.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Calen\\Calen\\Kartsiks.xaml.cs",
+              "RelativeToolTip": "Calen\\Kartsiks.xaml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAUwBoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T20:10:18.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Resource1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Calen\\Calen\\Resource1.Designer.cs",
+              "RelativeDocumentMoniker": "Calen\\Resource1.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Calen\\Calen\\Resource1.Designer.cs",
+              "RelativeToolTip": "Calen\\Resource1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T15:27:02.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Resource1.resx",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Calen\\Calen\\Resource1.resx",
+              "RelativeDocumentMoniker": "Calen\\Resource1.resx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Calen\\Calen\\Resource1.resx",
+              "RelativeToolTip": "Calen\\Resource1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-29T13:04:23.989Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
