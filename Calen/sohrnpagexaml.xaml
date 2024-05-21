@@ -1,4 +1,4 @@
-﻿<Page x:Class="Calen.sohrnpagexaml"
+<Page x:Class="Calen.sohrnpagexaml"
       xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
       xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
       xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
@@ -7,6 +7,14 @@
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800"
       Title="sohrnpagexaml" Background="Aquamarine">
+
+    <Page.Resources>
+        <!-- Анимация подъема кнопки вверх -->
+        <Storyboard x:Key="MoveUpAnimation">
+            <DoubleAnimation Storyboard.TargetProperty="(UIElement.RenderTransform).(TranslateTransform.Y)"
+                             To="-100" Duration="0:0:1" />
+        </Storyboard>
+    </Page.Resources>
 
     <Grid>
         <Grid.RowDefinitions>
@@ -18,15 +26,19 @@
             <ColumnDefinition Width="1*"/>
             <ColumnDefinition Width="9*"/>
         </Grid.ColumnDefinitions>
-        
+
         <Button x:Name="Nazad" Click="nazad_Click" Content="Назад" Margin="5" FontSize="16" Background="Aqua"/>
 
         <TextBlock x:Name="DateTextBlock" Grid.Column="1" FontSize="24" Text="что то " TextAlignment="Center" VerticalAlignment="Center"/>
 
-        <Button x:Name="Save" Click="sohrn_Click" Content="Сохранить и выйти"  Grid.Row="2" Grid.ColumnSpan="2" Background="CadetBlue" FontSize="20" Margin="5"/>
+        <Button x:Name="Save" Click="sohrn_Click" Content="Сохранить и выйти" Grid.Row="2" Grid.ColumnSpan="2" Background="CadetBlue" FontSize="20" Margin="5">
+            <Button.RenderTransform>
+                <TranslateTransform />
+            </Button.RenderTransform>
+        </Button>
 
         <ScrollViewer Grid.Row="1" Grid.ColumnSpan="2" Margin="5">
-        <StackPanel x:Name="ItemsStackPanel"/>
+            <StackPanel x:Name="ItemsStackPanel"/>
         </ScrollViewer>
 
     </Grid>
