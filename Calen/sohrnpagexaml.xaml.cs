@@ -1,11 +1,13 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Media;
+using System.Windows.Media.Animation;
 using System.Windows.Media.Imaging;
-using System.Media;
+using System.Windows.Threading;
+
 namespace Calen
 {
     public partial class sohrnpagexaml : Page
@@ -162,6 +164,40 @@ namespace Calen
                     DayItems.days[Index] = dayItems;
                 }
             }
+
+     
+            Storyboard moveUpAnimation = (Storyboard)FindResource("MoveUpAnimation");
+            moveUpAnimation.Completed += MoveUpAnimation_Completed;
+            moveUpAnimation.Begin(Save);
+
+   
+            Save.IsEnabled = false;
+        }
+
+        private void MoveUpAnimation_Completed(object sender, EventArgs e)
+        {
+           
+            DispatcherTimer timer = new DispatcherTimer();
+            timer.Interval = TimeSpan.FromSeconds(1);
+            timer.Tick += Timer_Tick;
+            timer.Start();
+        }
+
+        private void Timer_Tick(object sender, EventArgs e)
+        {
+            DispatcherTimer timer = (DispatcherTimer)sender;
+            timer.Stop();
+            timer.Tick -= Timer_Tick;
+
+           
+            SaveData();
+        }
+
+        private void SaveData()
+        {
+            
+            MessageBox.Show("Данные сохранены.");
+            Save.IsEnabled = true; 
 
             var mainWindow = Application.Current.MainWindow as MainWindow;
             mainWindow.Content = mainWindow.datacalendarviv;
