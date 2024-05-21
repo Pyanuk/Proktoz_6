@@ -9,7 +9,7 @@
       Title="sohrnpagexaml" Background="Aquamarine">
 
     <Page.Resources>
-        <!-- Анимация подъема кнопки вверх -->
+
         <Storyboard x:Key="MoveUpAnimation">
             <DoubleAnimation Storyboard.TargetProperty="(UIElement.RenderTransform).(TranslateTransform.Y)"
                              To="-100" Duration="0:0:1" />
