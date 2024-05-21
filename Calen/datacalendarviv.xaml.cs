@@ -1,7 +1,9 @@
-﻿using System;
+using System;
 using System.Linq;
 using System.Windows;
 using System.Windows.Controls;
+using System.Windows.Input;
+using System.Windows.Media.Animation;
 using System.Windows.Media.Imaging;
 
 namespace Calen
@@ -67,6 +69,30 @@ namespace Calen
                 control.ItemImage.Height = image.PixelHeight;
                 control.ItemImage.Width = image.PixelWidth;
             }
+        }
+
+        private void nazad_MouseEnter(object sender, MouseEventArgs e)
+        {
+            Storyboard rotateAnimation = (Storyboard)FindResource("RotateAnimation");
+            rotateAnimation.Begin(nazad, true);
+        }
+
+        private void nazad_MouseLeave(object sender, MouseEventArgs e)
+        {
+            Storyboard rotateAnimation = (Storyboard)FindResource("RotateAnimation");
+            rotateAnimation.Stop(nazad);
+        }
+
+        private void Forward_MouseEnter(object sender, MouseEventArgs e)
+        {
+            Storyboard colorAnimation = (Storyboard)FindResource("ColorAnimation");
+            colorAnimation.Begin(Forward, true);
+        }
+
+        private void Forward_MouseLeave(object sender, MouseEventArgs e)
+        {
+            Storyboard colorAnimation = (Storyboard)FindResource("ColorAnimation");
+            colorAnimation.Stop(Forward);
         }
     }
 }
